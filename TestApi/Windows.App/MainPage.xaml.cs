@@ -7,6 +7,7 @@ using TestApi.Pages;
 using Windows.Foundation;
 using Windows.Foundation.Collections;
 using Windows.UI.Input;
+using Windows.UI.Popups;
 using Windows.UI.Xaml;
 using Windows.UI.Xaml.Controls;
 using Windows.UI.Xaml.Controls.Primitives;
@@ -31,8 +32,9 @@ namespace TestApi
 
         private async void btnAccount_Click(object sender, RoutedEventArgs e)
         {
-            Login loginPage = new Login();
-            await loginPage.StartDragAsync(PointerPoint.GetCurrentPoint);
+          
         }
-    }
+    }    
 }
+
+

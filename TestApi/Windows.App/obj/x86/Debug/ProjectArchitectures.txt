@@ -1,0 +1,1 @@
+D:\project\FTEAM\Test.API\TestApi\Windows.App\Windows.App.csproj;x86
