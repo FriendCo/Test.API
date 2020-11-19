@@ -1,0 +1,15 @@
+D:\project\FTEAM\Test.API\TestApi\Windows.App\obj\x86\Debug\Windows.App.csprojAssemblyReference.cache
+D:\project\FTEAM\Test.API\TestApi\Windows.App\obj\x86\Debug\App.g.i.cs
+D:\project\FTEAM\Test.API\TestApi\Windows.App\obj\x86\Debug\App.g.cs
+D:\project\FTEAM\Test.API\TestApi\Windows.App\obj\x86\Debug\MainPage.g.i.cs
+D:\project\FTEAM\Test.API\TestApi\Windows.App\obj\x86\Debug\MainPage.g.cs
+D:\project\FTEAM\Test.API\TestApi\Windows.App\obj\x86\Debug\Pages\Login.g.i.cs
+D:\project\FTEAM\Test.API\TestApi\Windows.App\obj\x86\Debug\Pages\Login.g.cs
+D:\project\FTEAM\Test.API\TestApi\Windows.App\obj\x86\Debug\XamlTypeInfo.g.cs
+D:\project\FTEAM\Test.API\TestApi\Windows.App\obj\x86\Debug\App.xaml
+D:\project\FTEAM\Test.API\TestApi\Windows.App\obj\x86\Debug\MainPage.xaml
+D:\project\FTEAM\Test.API\TestApi\Windows.App\obj\x86\Debug\Pages\Login.xaml
+D:\project\FTEAM\Test.API\TestApi\Windows.App\obj\x86\Debug\App.xbf
+D:\project\FTEAM\Test.API\TestApi\Windows.App\obj\x86\Debug\MainPage.xbf
+D:\project\FTEAM\Test.API\TestApi\Windows.App\obj\x86\Debug\Pages\Login.xbf
+D:\project\FTEAM\Test.API\TestApi\Windows.App\obj\x86\Debug\XamlSaveStateFile.xml

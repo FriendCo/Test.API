@@ -1,0 +1,9 @@
+D:\project\FTEAM\Test.API\TestApi\services.cross\bin\Debug\netstandard2.0\services.cross.deps.json
+D:\project\FTEAM\Test.API\TestApi\services.cross\bin\Debug\netstandard2.0\services.cross.dll
+D:\project\FTEAM\Test.API\TestApi\services.cross\bin\Debug\netstandard2.0\services.cross.pdb
+D:\project\FTEAM\Test.API\TestApi\services.cross\obj\Debug\netstandard2.0\services.cross.csprojAssemblyReference.cache
+D:\project\FTEAM\Test.API\TestApi\services.cross\obj\Debug\netstandard2.0\services.cross.AssemblyInfoInputs.cache
+D:\project\FTEAM\Test.API\TestApi\services.cross\obj\Debug\netstandard2.0\services.cross.AssemblyInfo.cs
+D:\project\FTEAM\Test.API\TestApi\services.cross\obj\Debug\netstandard2.0\services.cross.csproj.CoreCompileInputs.cache
+D:\project\FTEAM\Test.API\TestApi\services.cross\obj\Debug\netstandard2.0\services.cross.dll
+D:\project\FTEAM\Test.API\TestApi\services.cross\obj\Debug\netstandard2.0\services.cross.pdb

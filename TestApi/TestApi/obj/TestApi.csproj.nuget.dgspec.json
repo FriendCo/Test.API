@@ -4,19 +4,17 @@
     "D:\\project\\FTEAM\\Test.API\\TestApi\\TestApi\\TestApi.csproj": {}
   },
   "projects": {
-    "D:\\project\\FTEAM\\Test.API\\TestApi\\Services\\Services.csproj": {
+    "D:\\project\\FTEAM\\Test.API\\TestApi\\services.cross\\services.cross.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\project\\FTEAM\\Test.API\\TestApi\\Services\\Services.csproj",
-        "projectName": "Services",
-        "projectPath": "D:\\project\\FTEAM\\Test.API\\TestApi\\Services\\Services.csproj",
+        "projectUniqueName": "D:\\project\\FTEAM\\Test.API\\TestApi\\services.cross\\services.cross.csproj",
+        "projectName": "services.cross",
+        "projectPath": "D:\\project\\FTEAM\\Test.API\\TestApi\\services.cross\\services.cross.csproj",
         "packagesPath": "C:\\Users\\Amir Hossin\\.nuget\\packages\\",
-        "outputPath": "D:\\project\\FTEAM\\Test.API\\TestApi\\Services\\obj\\",
+        "outputPath": "D:\\project\\FTEAM\\Test.API\\TestApi\\services.cross\\obj\\",
         "projectStyle": "PackageReference",
-        "skipContentFileWrite": true,
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\"
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
           "C:\\Users\\Amir Hossin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -24,54 +22,46 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "uap10.0.17763"
+          "netstandard2.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "uap10.0.17763": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
             "projectReferences": {}
           }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
         }
       },
       "frameworks": {
-        "uap10.0.17763": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
           "dependencies": {
-            "Microsoft.NETCore.UniversalWindowsPlatform": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
               "target": "Package",
-              "version": "[6.2.10, )"
+              "version": "[2.0.3, )",
+              "autoReferenced": true
             }
           },
           "imports": [
-            "net461"
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
           ],
           "assetTargetFallback": true,
-          "warn": true
-        }
-      },
-      "runtimes": {
-        "win10-arm": {
-          "#import": []
-        },
-        "win10-arm-aot": {
-          "#import": []
-        },
-        "win10-arm64-aot": {
-          "#import": []
-        },
-        "win10-x64": {
-          "#import": []
-        },
-        "win10-x64-aot": {
-          "#import": []
-        },
-        "win10-x86": {
-          "#import": []
-        },
-        "win10-x86-aot": {
-          "#import": []
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100-rc.2.20479.15\\RuntimeIdentifierGraph.json"
         }
       }
     },
@@ -104,8 +94,8 @@
         "frameworks": {
           "uap10.0.17763": {
             "projectReferences": {
-              "D:\\project\\FTEAM\\Test.API\\TestApi\\Services\\Services.csproj": {
-                "projectPath": "D:\\project\\FTEAM\\Test.API\\TestApi\\Services\\Services.csproj"
+              "D:\\project\\FTEAM\\Test.API\\TestApi\\services.cross\\services.cross.csproj": {
+                "projectPath": "D:\\project\\FTEAM\\Test.API\\TestApi\\services.cross\\services.cross.csproj"
               }
             }
           }

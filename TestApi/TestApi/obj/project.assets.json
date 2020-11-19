@@ -307,17 +307,14 @@
           "build/runtime.win10-x86.Microsoft.Net.UWPCoreRuntimeSdk.targets": {}
         }
       },
-      "Services/1.0.0": {
+      "services.cross/1.0.0": {
         "type": "project",
-        "framework": "UAP,Version=v10.0.17763",
-        "dependencies": {
-          "Microsoft.NETCore.UniversalWindowsPlatform": "6.2.10"
-        },
+        "framework": ".NETStandard,Version=v2.0",
         "compile": {
-          "bin/placeholder/Services.dll": {}
+          "bin/placeholder/services.cross.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Services.dll": {}
+          "bin/placeholder/services.cross.dll": {}
         }
       }
     },
@@ -806,17 +803,14 @@
           "build/runtime.win10-x86.Microsoft.Net.UWPCoreRuntimeSdk.targets": {}
         }
       },
-      "Services/1.0.0": {
+      "services.cross/1.0.0": {
         "type": "project",
-        "framework": "UAP,Version=v10.0.17763",
-        "dependencies": {
-          "Microsoft.NETCore.UniversalWindowsPlatform": "6.2.10"
-        },
+        "framework": ".NETStandard,Version=v2.0",
         "compile": {
-          "bin/placeholder/Services.dll": {}
+          "bin/placeholder/services.cross.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Services.dll": {}
+          "bin/placeholder/services.cross.dll": {}
         }
       }
     },
@@ -1306,17 +1300,14 @@
           "build/runtime.win10-x86.Microsoft.Net.UWPCoreRuntimeSdk.targets": {}
         }
       },
-      "Services/1.0.0": {
+      "services.cross/1.0.0": {
         "type": "project",
-        "framework": "UAP,Version=v10.0.17763",
-        "dependencies": {
-          "Microsoft.NETCore.UniversalWindowsPlatform": "6.2.10"
-        },
+        "framework": ".NETStandard,Version=v2.0",
         "compile": {
-          "bin/placeholder/Services.dll": {}
+          "bin/placeholder/services.cross.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Services.dll": {}
+          "bin/placeholder/services.cross.dll": {}
         }
       }
     },
@@ -1806,17 +1797,14 @@
           "build/runtime.win10-x86.Microsoft.Net.UWPCoreRuntimeSdk.targets": {}
         }
       },
-      "Services/1.0.0": {
+      "services.cross/1.0.0": {
         "type": "project",
-        "framework": "UAP,Version=v10.0.17763",
-        "dependencies": {
-          "Microsoft.NETCore.UniversalWindowsPlatform": "6.2.10"
-        },
+        "framework": ".NETStandard,Version=v2.0",
         "compile": {
-          "bin/placeholder/Services.dll": {}
+          "bin/placeholder/services.cross.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Services.dll": {}
+          "bin/placeholder/services.cross.dll": {}
         }
       }
     },
@@ -2305,17 +2293,14 @@
           "build/runtime.win10-x86.Microsoft.Net.UWPCoreRuntimeSdk.targets": {}
         }
       },
-      "Services/1.0.0": {
+      "services.cross/1.0.0": {
         "type": "project",
-        "framework": "UAP,Version=v10.0.17763",
-        "dependencies": {
-          "Microsoft.NETCore.UniversalWindowsPlatform": "6.2.10"
-        },
+        "framework": ".NETStandard,Version=v2.0",
         "compile": {
-          "bin/placeholder/Services.dll": {}
+          "bin/placeholder/services.cross.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Services.dll": {}
+          "bin/placeholder/services.cross.dll": {}
         }
       }
     },
@@ -2805,17 +2790,14 @@
           "build/runtime.win10-x86.Microsoft.Net.UWPCoreRuntimeSdk.targets": {}
         }
       },
-      "Services/1.0.0": {
+      "services.cross/1.0.0": {
         "type": "project",
-        "framework": "UAP,Version=v10.0.17763",
-        "dependencies": {
-          "Microsoft.NETCore.UniversalWindowsPlatform": "6.2.10"
-        },
+        "framework": ".NETStandard,Version=v2.0",
         "compile": {
-          "bin/placeholder/Services.dll": {}
+          "bin/placeholder/services.cross.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Services.dll": {}
+          "bin/placeholder/services.cross.dll": {}
         }
       }
     },
@@ -3304,17 +3286,14 @@
           "runtimes/win10-x86/nativeassets/uap10.0.15138/clrcompression.dll": {}
         }
       },
-      "Services/1.0.0": {
+      "services.cross/1.0.0": {
         "type": "project",
-        "framework": "UAP,Version=v10.0.17763",
-        "dependencies": {
-          "Microsoft.NETCore.UniversalWindowsPlatform": "6.2.10"
-        },
+        "framework": ".NETStandard,Version=v2.0",
         "compile": {
-          "bin/placeholder/Services.dll": {}
+          "bin/placeholder/services.cross.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Services.dll": {}
+          "bin/placeholder/services.cross.dll": {}
         }
       }
     },
@@ -3804,17 +3783,14 @@
           "build/runtime.win10-x86.Microsoft.Net.UWPCoreRuntimeSdk.targets": {}
         }
       },
-      "Services/1.0.0": {
+      "services.cross/1.0.0": {
         "type": "project",
-        "framework": "UAP,Version=v10.0.17763",
-        "dependencies": {
-          "Microsoft.NETCore.UniversalWindowsPlatform": "6.2.10"
-        },
+        "framework": ".NETStandard,Version=v2.0",
         "compile": {
-          "bin/placeholder/Services.dll": {}
+          "bin/placeholder/services.cross.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Services.dll": {}
+          "bin/placeholder/services.cross.dll": {}
         }
       }
     }
@@ -8248,16 +8224,16 @@
         "runtimes/win10-x86/nativeassets/uap10.0.15138/clrcompression.dll"
       ]
     },
-    "Services/1.0.0": {
+    "services.cross/1.0.0": {
       "type": "project",
-      "path": "../Services/Services.csproj",
-      "msbuildProject": "../Services/Services.csproj"
+      "path": "../services.cross/services.cross.csproj",
+      "msbuildProject": "../services.cross/services.cross.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "UAP,Version=v10.0.17763": [
       "Microsoft.NETCore.UniversalWindowsPlatform >= 6.2.10",
-      "Services >= 1.0.0"
+      "services.cross >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -8294,8 +8270,8 @@
       "frameworks": {
         "uap10.0.17763": {
           "projectReferences": {
-            "D:\\project\\FTEAM\\Test.API\\TestApi\\Services\\Services.csproj": {
-              "projectPath": "D:\\project\\FTEAM\\Test.API\\TestApi\\Services\\Services.csproj"
+            "D:\\project\\FTEAM\\Test.API\\TestApi\\services.cross\\services.cross.csproj": {
+              "projectPath": "D:\\project\\FTEAM\\Test.API\\TestApi\\services.cross\\services.cross.csproj"
             }
           }
         }
