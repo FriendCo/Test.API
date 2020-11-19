@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "MJLwaArLrdqHsFJiXLZGCw7PDMeZwQkTmYL0SB/VEaV72rHOquAM1CauPMz5RGtbebAfBUlqClMz58SBwRLMIQ==",
+  "success": true,
+  "projectFilePath": "D:\\project\\FTEAM\\Test.API\\TestApi\\services.cross\\services.cross.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Amir Hossin\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Amir Hossin\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
