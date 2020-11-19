@@ -25,8 +25,8 @@
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="D:\project\FTEAM\Test.API\TestApi\Windows.App\bin\x86\Debug\Windows.App.exe">
-      <PackagePath>entrypoint\Windows.App.exe</PackagePath>
+    <AppxPackagedFile Include="D:\project\FTEAM\Test.API\TestApi\Windows.App\bin\x86\Debug\TestApi-App.exe">
+      <PackagePath>entrypoint\TestApi-App.exe</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.2.10\runtimes\win10-x86\lib\uap10.0.15138\System.Runtime.dll">
       <PackagePath>System.Runtime.dll</PackagePath>
@@ -64,8 +64,8 @@
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\project\FTEAM\Test.API\TestApi\Windows.App\bin\x86\Debug\Windows.App.xr.xml">
-      <PackagePath>Windows.App.xr.xml</PackagePath>
+    <AppxPackagedFile Include="D:\project\FTEAM\Test.API\TestApi\Windows.App\bin\x86\Debug\TestApi-App.xr.xml">
+      <PackagePath>TestApi-App.xr.xml</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\project\FTEAM\Test.API\TestApi\Windows.App\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
@@ -82,8 +82,8 @@
     <AppxPackagedFile Include="D:\project\FTEAM\Test.API\TestApi\Windows.App\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\project\FTEAM\Test.API\TestApi\Windows.App\bin\x86\Debug\Core\Windows.App.exe">
-      <PackagePath>Windows.App.exe</PackagePath>
+    <AppxPackagedFile Include="D:\project\FTEAM\Test.API\TestApi\Windows.App\bin\x86\Debug\Core\TestApi-App.exe">
+      <PackagePath>TestApi-App.exe</PackagePath>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

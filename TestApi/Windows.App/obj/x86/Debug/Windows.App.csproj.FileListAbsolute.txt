@@ -16,9 +16,6 @@ D:\project\FTEAM\Test.API\TestApi\Windows.App\obj\x86\Debug\XamlSaveStateFile.xm
 D:\project\FTEAM\Test.API\TestApi\Windows.App\bin\x86\Debug\App.xbf
 D:\project\FTEAM\Test.API\TestApi\Windows.App\bin\x86\Debug\MainPage.xbf
 D:\project\FTEAM\Test.API\TestApi\Windows.App\bin\x86\Debug\Pages\Login.xbf
-D:\project\FTEAM\Test.API\TestApi\Windows.App\bin\x86\Debug\Windows.App.xr.xml
-D:\project\FTEAM\Test.API\TestApi\Windows.App\bin\x86\Debug\Windows.App.exe
-D:\project\FTEAM\Test.API\TestApi\Windows.App\bin\x86\Debug\Windows.App.pdb
 D:\project\FTEAM\Test.API\TestApi\Windows.App\bin\x86\Debug\resources.pri
 D:\project\FTEAM\Test.API\TestApi\Windows.App\bin\x86\Debug\AppxManifest.xml
 D:\project\FTEAM\Test.API\TestApi\Windows.App\bin\x86\Debug\Core\AppxManifest.xml
@@ -28,8 +25,6 @@ D:\project\FTEAM\Test.API\TestApi\Windows.App\bin\x86\Debug\System.Runtime.dll
 D:\project\FTEAM\Test.API\TestApi\Windows.App\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
 D:\project\FTEAM\Test.API\TestApi\Windows.App\obj\x86\Debug\Windows.App.csproj.CoreCompileInputs.cache
 D:\project\FTEAM\Test.API\TestApi\Windows.App\obj\x86\Debug\Windows.App.csproj.CopyComplete
-D:\project\FTEAM\Test.API\TestApi\Windows.App\obj\x86\Debug\Windows.App.exe
-D:\project\FTEAM\Test.API\TestApi\Windows.App\obj\x86\Debug\Windows.App.pdb
 D:\project\FTEAM\Test.API\TestApi\Windows.App\obj\x86\Debug\ResourceHandlingTask.state
 D:\project\FTEAM\Test.API\TestApi\Windows.App\obj\x86\Debug\priconfig.xml
 D:\project\FTEAM\Test.API\TestApi\Windows.App\obj\x86\Debug\priconfig.xml.intermediate
@@ -48,3 +43,9 @@ D:\project\FTEAM\Test.API\TestApi\Windows.App\obj\x86\Debug\qualifiers.txt.inter
 D:\project\FTEAM\Test.API\TestApi\Windows.App\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
 D:\project\FTEAM\Test.API\TestApi\Windows.App\obj\x86\Debug\ProjectArchitectures.txt
 D:\project\FTEAM\Test.API\TestApi\Windows.App\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637112444540000000.json
+D:\project\FTEAM\Test.API\TestApi\Windows.App\bin\x86\Debug\TestApi-App.xr.xml
+D:\project\FTEAM\Test.API\TestApi\Windows.App\bin\x86\Debug\TestApi-App.exe
+D:\project\FTEAM\Test.API\TestApi\Windows.App\bin\x86\Debug\TestApi-App.pdb
+D:\project\FTEAM\Test.API\TestApi\Windows.App\bin\x86\Debug\Core\TestApi-App.exe
+D:\project\FTEAM\Test.API\TestApi\Windows.App\obj\x86\Debug\TestApi-App.exe
+D:\project\FTEAM\Test.API\TestApi\Windows.App\obj\x86\Debug\TestApi-App.pdb
