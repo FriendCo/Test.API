@@ -41,6 +41,19 @@
       <RootProperty Name="Width" />
       <RootEvent Name="Click" />
     </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.Primitives.ToggleButton">
+      <RootProperty Name="CornerRadius" />
+      <RootProperty Name="Content" />
+      <RootProperty Name="Margin" />
+      <RootProperty Name="VerticalAlignment" />
+      <RootProperty Name="Width" />
+      <RootProperty Name="HorizontalAlignment" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.DropDownButton">
+      <RootProperty Name="Content" />
+      <RootProperty Name="FontSize" />
+      <RootProperty Name="HorizontalAlignment" />
+    </RootType>
     <RootType FullName="TestApi.MainPage" />
     <RootType FullName="TestApi.Pages.Login" />
   </Roots.RootTypes>
