@@ -39,20 +39,41 @@
       <RootProperty Name="VerticalAlignment" />
       <RootProperty Name="HorizontalAlignment" />
       <RootProperty Name="Width" />
+      <RootProperty Name="Height" />
       <RootEvent Name="Click" />
     </RootType>
     <RootType FullName="Windows.UI.Xaml.Controls.Primitives.ToggleButton">
+      <RootProperty Name="IsChecked" />
       <RootProperty Name="CornerRadius" />
       <RootProperty Name="Content" />
       <RootProperty Name="Margin" />
       <RootProperty Name="VerticalAlignment" />
       <RootProperty Name="Width" />
       <RootProperty Name="HorizontalAlignment" />
+      <RootEvent Name="Checked" />
+      <RootEvent Name="Unchecked" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.RadioButton">
+      <RootProperty Name="IsChecked" />
+      <RootProperty Name="Content" />
+      <RootProperty Name="Margin" />
     </RootType>
     <RootType FullName="Windows.UI.Xaml.Controls.DropDownButton">
       <RootProperty Name="Content" />
+      <RootProperty Name="CornerRadius" />
+      <RootProperty Name="Margin" />
+      <RootProperty Name="VerticalAlignment" />
       <RootProperty Name="FontSize" />
       <RootProperty Name="HorizontalAlignment" />
+      <RootProperty Name="Height" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.TextBox">
+      <RootProperty Name="CornerRadius" />
+      <RootProperty Name="FontSize" />
+      <RootProperty Name="PlaceholderText" />
+      <RootProperty Name="VerticalAlignment" />
+      <RootProperty Name="Height" />
+      <RootProperty Name="Margin" />
     </RootType>
     <RootType FullName="TestApi.MainPage" />
     <RootType FullName="TestApi.Pages.Login" />

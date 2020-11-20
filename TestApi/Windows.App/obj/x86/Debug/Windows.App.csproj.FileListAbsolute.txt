@@ -1,4 +1,3 @@
-D:\project\FTEAM\Test.API\TestApi\Windows.App\obj\x86\Debug\Windows.App.csprojAssemblyReference.cache
 D:\project\FTEAM\Test.API\TestApi\Windows.App\obj\x86\Debug\App.g.i.cs
 D:\project\FTEAM\Test.API\TestApi\Windows.App\obj\x86\Debug\App.g.cs
 D:\project\FTEAM\Test.API\TestApi\Windows.App\obj\x86\Debug\MainPage.g.i.cs
@@ -48,3 +47,4 @@ D:\project\FTEAM\Test.API\TestApi\Windows.App\bin\x86\Debug\TestApi-App.pdb
 D:\project\FTEAM\Test.API\TestApi\Windows.App\bin\x86\Debug\Core\TestApi-App.exe
 D:\project\FTEAM\Test.API\TestApi\Windows.App\obj\x86\Debug\TestApi-App.exe
 D:\project\FTEAM\Test.API\TestApi\Windows.App\obj\x86\Debug\TestApi-App.pdb
+D:\project\FTEAM\Test.API\TestApi\Windows.App\obj\x86\Debug\Windows.App.csprojAssemblyReference.cache

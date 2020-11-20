@@ -34,8 +34,61 @@
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\bin\10.0.19041.0\XamlCompiler\Microsoft.UI.Xaml.Markup.winmd">
       <PackagePath>Microsoft.UI.Xaml.Markup.winmd</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\project\FTEAM\Test.API\TestApi\Windows.App\Properties\Default.rd.xml">
-      <PackagePath>Properties\Default.rd.xml</PackagePath>
+    <AppxPackagedFile Include="D:\project\FTEAM\Test.API\TestApi\Windows.App\Assets\BadgeLogo.scale-100.png">
+      <PackagePath>Assets\BadgeLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\project\FTEAM\Test.API\TestApi\Windows.App\Assets\BadgeLogo.scale-125.png">
+      <PackagePath>Assets\BadgeLogo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\project\FTEAM\Test.API\TestApi\Windows.App\Assets\BadgeLogo.scale-150.png">
+      <PackagePath>Assets\BadgeLogo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\project\FTEAM\Test.API\TestApi\Windows.App\Assets\BadgeLogo.scale-200.png">
+      <PackagePath>Assets\BadgeLogo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\project\FTEAM\Test.API\TestApi\Windows.App\Assets\BadgeLogo.scale-400.png">
+      <PackagePath>Assets\BadgeLogo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\project\FTEAM\Test.API\TestApi\Windows.App\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\project\FTEAM\Test.API\TestApi\Windows.App\Assets\SplashScreen.scale-125.png">
+      <PackagePath>Assets\SplashScreen.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\project\FTEAM\Test.API\TestApi\Windows.App\Assets\SplashScreen.scale-150.png">
+      <PackagePath>Assets\SplashScreen.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\project\FTEAM\Test.API\TestApi\Windows.App\Assets\SplashScreen.scale-400.png">
+      <PackagePath>Assets\SplashScreen.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\project\FTEAM\Test.API\TestApi\Windows.App\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\project\FTEAM\Test.API\TestApi\Windows.App\Assets\StoreLogo.scale-125.png">
+      <PackagePath>Assets\StoreLogo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\project\FTEAM\Test.API\TestApi\Windows.App\Assets\StoreLogo.scale-150.png">
+      <PackagePath>Assets\StoreLogo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\project\FTEAM\Test.API\TestApi\Windows.App\Assets\StoreLogo.scale-200.png">
+      <PackagePath>Assets\StoreLogo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\project\FTEAM\Test.API\TestApi\Windows.App\Assets\StoreLogo.scale-400.png">
+      <PackagePath>Assets\StoreLogo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\project\FTEAM\Test.API\TestApi\Windows.App\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
@@ -56,13 +109,32 @@
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\project\FTEAM\Test.API\TestApi\Windows.App\Assets\StoreLogo.png">
-      <PackagePath>Assets\StoreLogo.png</PackagePath>
-      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-    </AppxPackagedFile>
     <AppxPackagedFile Include="D:\project\FTEAM\Test.API\TestApi\Windows.App\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\project\FTEAM\Test.API\TestApi\Windows.App\Assets\Square71x71Logo.scale-100.jpg">
+      <PackagePath>Assets\Square71x71Logo.scale-100.jpg</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\project\FTEAM\Test.API\TestApi\Windows.App\Assets\Square71x71Logo.scale-125.jpg">
+      <PackagePath>Assets\Square71x71Logo.scale-125.jpg</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\project\FTEAM\Test.API\TestApi\Windows.App\Assets\Square71x71Logo.scale-150.jpg">
+      <PackagePath>Assets\Square71x71Logo.scale-150.jpg</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\project\FTEAM\Test.API\TestApi\Windows.App\Assets\Square71x71Logo.scale-200.jpg">
+      <PackagePath>Assets\Square71x71Logo.scale-200.jpg</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\project\FTEAM\Test.API\TestApi\Windows.App\Assets\Square71x71Logo.scale-400.jpg">
+      <PackagePath>Assets\Square71x71Logo.scale-400.jpg</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\project\FTEAM\Test.API\TestApi\Windows.App\Properties\Default.rd.xml">
+      <PackagePath>Properties\Default.rd.xml</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\project\FTEAM\Test.API\TestApi\Windows.App\bin\x86\Debug\TestApi-App.xr.xml">
       <PackagePath>TestApi-App.xr.xml</PackagePath>
