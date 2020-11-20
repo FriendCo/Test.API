@@ -30,13 +30,13 @@
     <AppXManifest Include="D:\project\FTEAM\Test.API\TestApi\Windows.App\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2020-11-20T13:47:12.464</Modified>
+      <Modified>2020-11-20T16:26:15.707</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="D:\project\FTEAM\Test.API\TestApi\Windows.App\bin\x86\Debug\TestApi-App.exe">
       <PackagePath>entrypoint\TestApi-App.exe</PackagePath>
-      <Modified>2020-11-20T13:47:11.647</Modified>
+      <Modified>2020-11-20T14:02:49.603</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.2.10\runtimes\win10-x86\lib\uap10.0.15138\System.Runtime.dll">
       <PackagePath>System.Runtime.dll</PackagePath>
@@ -49,72 +49,72 @@
     <AppxPackagedFile Include="D:\project\FTEAM\Test.API\TestApi\Windows.App\Assets\BadgeLogo.scale-100.png">
       <PackagePath>Assets\BadgeLogo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2020-11-18T19:52:43.152</Modified>
+      <Modified>2020-11-20T16:26:00.017</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\project\FTEAM\Test.API\TestApi\Windows.App\Assets\BadgeLogo.scale-125.png">
       <PackagePath>Assets\BadgeLogo.scale-125.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2020-11-18T19:52:43.152</Modified>
+      <Modified>2020-11-20T16:26:00.046</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\project\FTEAM\Test.API\TestApi\Windows.App\Assets\BadgeLogo.scale-150.png">
       <PackagePath>Assets\BadgeLogo.scale-150.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2020-11-18T19:52:43.152</Modified>
+      <Modified>2020-11-20T16:26:00.047</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\project\FTEAM\Test.API\TestApi\Windows.App\Assets\BadgeLogo.scale-200.png">
       <PackagePath>Assets\BadgeLogo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2020-11-18T19:52:43.152</Modified>
+      <Modified>2020-11-20T16:26:00.049</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\project\FTEAM\Test.API\TestApi\Windows.App\Assets\BadgeLogo.scale-400.png">
       <PackagePath>Assets\BadgeLogo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2020-11-18T19:52:43.152</Modified>
+      <Modified>2020-11-20T16:26:00.050</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\project\FTEAM\Test.API\TestApi\Windows.App\Assets\SplashScreen.scale-100.png">
       <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2020-11-18T19:52:43.152</Modified>
+      <Modified>2020-11-20T16:26:00.056</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\project\FTEAM\Test.API\TestApi\Windows.App\Assets\SplashScreen.scale-125.png">
       <PackagePath>Assets\SplashScreen.scale-125.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2020-11-18T19:52:43.152</Modified>
+      <Modified>2020-11-20T16:26:00.058</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\project\FTEAM\Test.API\TestApi\Windows.App\Assets\SplashScreen.scale-150.png">
       <PackagePath>Assets\SplashScreen.scale-150.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2020-11-18T19:52:43.152</Modified>
+      <Modified>2020-11-20T16:26:00.059</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\project\FTEAM\Test.API\TestApi\Windows.App\Assets\SplashScreen.scale-400.png">
       <PackagePath>Assets\SplashScreen.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2020-11-18T19:52:43.152</Modified>
+      <Modified>2020-11-20T16:26:00.063</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\project\FTEAM\Test.API\TestApi\Windows.App\Assets\StoreLogo.scale-100.png">
       <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2020-11-18T19:52:43.152</Modified>
+      <Modified>2020-11-20T16:26:00.108</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\project\FTEAM\Test.API\TestApi\Windows.App\Assets\StoreLogo.scale-125.png">
       <PackagePath>Assets\StoreLogo.scale-125.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2020-11-18T19:52:43.152</Modified>
+      <Modified>2020-11-20T16:26:00.110</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\project\FTEAM\Test.API\TestApi\Windows.App\Assets\StoreLogo.scale-150.png">
       <PackagePath>Assets\StoreLogo.scale-150.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2020-11-18T19:52:43.152</Modified>
+      <Modified>2020-11-20T16:26:00.111</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\project\FTEAM\Test.API\TestApi\Windows.App\Assets\StoreLogo.scale-200.png">
       <PackagePath>Assets\StoreLogo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2020-11-18T19:52:43.152</Modified>
+      <Modified>2020-11-20T16:26:00.112</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\project\FTEAM\Test.API\TestApi\Windows.App\Assets\StoreLogo.scale-400.png">
       <PackagePath>Assets\StoreLogo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2020-11-18T19:52:43.152</Modified>
+      <Modified>2020-11-20T16:26:00.114</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\project\FTEAM\Test.API\TestApi\Windows.App\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
@@ -123,27 +123,27 @@
     <AppxPackagedFile Include="D:\project\FTEAM\Test.API\TestApi\Windows.App\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2020-11-18T19:52:43.152</Modified>
+      <Modified>2020-11-20T16:26:00.061</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\project\FTEAM\Test.API\TestApi\Windows.App\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2020-11-13T00:26:36.274</Modified>
+      <Modified>2020-11-20T16:26:00.102</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\project\FTEAM\Test.API\TestApi\Windows.App\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2020-11-18T19:52:43.152</Modified>
+      <Modified>2020-11-20T16:26:00.103</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\project\FTEAM\Test.API\TestApi\Windows.App\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2020-11-18T19:52:43.152</Modified>
+      <Modified>2020-11-20T16:26:00.105</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\project\FTEAM\Test.API\TestApi\Windows.App\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2020-11-13T00:26:36.296</Modified>
+      <Modified>2020-11-20T16:26:00.192</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\project\FTEAM\Test.API\TestApi\Windows.App\Assets\Square71x71Logo.scale-100.jpg">
       <PackagePath>Assets\Square71x71Logo.scale-100.jpg</PackagePath>
@@ -176,19 +176,19 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\project\FTEAM\Test.API\TestApi\Windows.App\bin\x86\Debug\TestApi-App.xr.xml">
       <PackagePath>TestApi-App.xr.xml</PackagePath>
-      <Modified>2020-11-20T13:47:11.520</Modified>
+      <Modified>2020-11-20T13:52:45.382</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\project\FTEAM\Test.API\TestApi\Windows.App\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2020-11-20T13:46:11.814</Modified>
+      <Modified>2020-11-20T16:24:07.751</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\project\FTEAM\Test.API\TestApi\Windows.App\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2020-11-20T13:46:11.814</Modified>
+      <Modified>2020-11-20T16:24:07.752</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\project\FTEAM\Test.API\TestApi\Windows.App\bin\x86\Debug\Pages\Login.xbf">
       <PackagePath>Pages\Login.xbf</PackagePath>
-      <Modified>2020-11-20T13:47:11.524</Modified>
+      <Modified>2020-11-20T16:24:07.752</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.19041.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
@@ -196,11 +196,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\project\FTEAM\Test.API\TestApi\Windows.App\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2020-11-20T13:06:56.171</Modified>
+      <Modified>2020-11-20T14:02:49.887</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\project\FTEAM\Test.API\TestApi\Windows.App\bin\x86\Debug\Core\TestApi-App.exe">
       <PackagePath>TestApi-App.exe</PackagePath>
-      <Modified>2020-11-20T13:47:12.457</Modified>
+      <Modified>2020-11-20T16:26:15.694</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
