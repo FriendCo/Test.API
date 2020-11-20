@@ -16,4 +16,3 @@ D:\project\FTEAM\Test.API\TestApi\Test.API.Mobile\Test.API.Mobile\obj\Debug\nets
 D:\project\FTEAM\Test.API\TestApi\Test.API.Mobile\Test.API.Mobile\obj\Debug\netstandard2.1\Test.API.Mobile.dll
 D:\project\FTEAM\Test.API\TestApi\Test.API.Mobile\Test.API.Mobile\obj\Debug\netstandard2.1\ref\Test.API.Mobile.dll
 D:\project\FTEAM\Test.API\TestApi\Test.API.Mobile\Test.API.Mobile\obj\Debug\netstandard2.1\Test.API.Mobile.pdb
-D:\project\FTEAM\Test.API\TestApi\Test.API.Mobile\Test.API.Mobile\obj\Debug\netstandard2.1\Test.API.Mobile.csprojAssemblyReference.cache
