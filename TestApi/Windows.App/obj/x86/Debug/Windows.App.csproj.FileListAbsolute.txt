@@ -47,4 +47,3 @@ D:\project\FTEAM\Test.API\TestApi\Windows.App\bin\x86\Debug\TestApi-App.pdb
 D:\project\FTEAM\Test.API\TestApi\Windows.App\bin\x86\Debug\Core\TestApi-App.exe
 D:\project\FTEAM\Test.API\TestApi\Windows.App\obj\x86\Debug\TestApi-App.exe
 D:\project\FTEAM\Test.API\TestApi\Windows.App\obj\x86\Debug\TestApi-App.pdb
-D:\project\FTEAM\Test.API\TestApi\Windows.App\obj\x86\Debug\Windows.App.csprojAssemblyReference.cache
