@@ -35,7 +35,7 @@ namespace TestApi
                                 newAppView.Title = "Login";
 
                                 var frame = new Frame();
-                                frame.Navigate(typeof(Login), null);
+                                frame.Navigate(typeof(Login),null);
                                 newWindow.Content = frame;
                                 newWindow.Activate();
 

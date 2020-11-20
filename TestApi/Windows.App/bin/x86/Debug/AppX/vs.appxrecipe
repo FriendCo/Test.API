@@ -30,13 +30,13 @@
     <AppXManifest Include="D:\project\FTEAM\Test.API\TestApi\Windows.App\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2020-11-20T13:32:09.169</Modified>
+      <Modified>2020-11-20T13:47:12.464</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="D:\project\FTEAM\Test.API\TestApi\Windows.App\bin\x86\Debug\TestApi-App.exe">
       <PackagePath>entrypoint\TestApi-App.exe</PackagePath>
-      <Modified>2020-11-20T13:32:08.072</Modified>
+      <Modified>2020-11-20T13:47:11.647</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.2.10\runtimes\win10-x86\lib\uap10.0.15138\System.Runtime.dll">
       <PackagePath>System.Runtime.dll</PackagePath>
@@ -176,19 +176,19 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\project\FTEAM\Test.API\TestApi\Windows.App\bin\x86\Debug\TestApi-App.xr.xml">
       <PackagePath>TestApi-App.xr.xml</PackagePath>
-      <Modified>2020-11-20T13:25:27.300</Modified>
+      <Modified>2020-11-20T13:47:11.520</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\project\FTEAM\Test.API\TestApi\Windows.App\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2020-11-20T13:32:07.936</Modified>
+      <Modified>2020-11-20T13:46:11.814</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\project\FTEAM\Test.API\TestApi\Windows.App\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2020-11-20T13:32:07.936</Modified>
+      <Modified>2020-11-20T13:46:11.814</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\project\FTEAM\Test.API\TestApi\Windows.App\bin\x86\Debug\Pages\Login.xbf">
       <PackagePath>Pages\Login.xbf</PackagePath>
-      <Modified>2020-11-20T13:32:07.936</Modified>
+      <Modified>2020-11-20T13:47:11.524</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.19041.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
@@ -200,7 +200,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\project\FTEAM\Test.API\TestApi\Windows.App\bin\x86\Debug\Core\TestApi-App.exe">
       <PackagePath>TestApi-App.exe</PackagePath>
-      <Modified>2020-11-20T13:32:09.159</Modified>
+      <Modified>2020-11-20T13:47:12.457</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

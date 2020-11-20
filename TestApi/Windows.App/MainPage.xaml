@@ -10,11 +10,15 @@
     Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
 
     <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="89*"/>
+            <ColumnDefinition Width="661*"/>
+        </Grid.ColumnDefinitions>
         <Grid.RowDefinitions>
             <RowDefinition Height="50"></RowDefinition>
             <RowDefinition Height="1*"></RowDefinition>
         </Grid.RowDefinitions>
-        <Grid Grid.Row="1">
+        <Grid Grid.Row="1" Grid.ColumnSpan="2">
             <Grid.ColumnDefinitions>
                 <ColumnDefinition Width="200"></ColumnDefinition>
                 <ColumnDefinition Width="1*"></ColumnDefinition>
@@ -71,6 +75,6 @@
 
 
 
-        <TextBlock Text="Friends Co" Grid.Column="1" FontSize="20" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+        <TextBlock Text="Friends Co" Grid.Column="1" FontSize="20" VerticalAlignment="Center" HorizontalAlignment="Left" Margin="525,0,0,0"/>
     </Grid>
 </Page>
