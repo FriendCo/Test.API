@@ -11,6 +11,10 @@
 *.suo
 *.user
 *.sln.docstates
+*.exe
+*.cache
+*.zip
+*.dll
 
 # Build results
 [Dd]ebug/
