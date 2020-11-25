@@ -468,11 +468,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\project\\FTEAM\\Test.API\\TestApi\\Test.API.Mobile\\Test.API.Mobile\\Test.API.Mobile.csproj",
+      "projectUniqueName": "D:\\project\\FTEAM\\Send.Api\\TestApi\\Test.API.Mobile\\Test.API.Mobile\\Test.API.Mobile.csproj",
       "projectName": "Test.API.Mobile",
-      "projectPath": "D:\\project\\FTEAM\\Test.API\\TestApi\\Test.API.Mobile\\Test.API.Mobile\\Test.API.Mobile.csproj",
+      "projectPath": "D:\\project\\FTEAM\\Send.Api\\TestApi\\Test.API.Mobile\\Test.API.Mobile\\Test.API.Mobile.csproj",
       "packagesPath": "C:\\Users\\Amir Hossin\\.nuget\\packages\\",
-      "outputPath": "D:\\project\\FTEAM\\Test.API\\TestApi\\Test.API.Mobile\\Test.API.Mobile\\obj\\",
+      "outputPath": "D:\\project\\FTEAM\\Send.Api\\TestApi\\Test.API.Mobile\\Test.API.Mobile\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

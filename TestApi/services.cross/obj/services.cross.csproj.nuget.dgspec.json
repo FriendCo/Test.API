@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\project\\FTEAM\\Test.API\\TestApi\\services.cross\\services.cross.csproj": {}
+    "D:\\project\\FTEAM\\Send.Api\\TestApi\\services.cross\\services.cross.csproj": {}
   },
   "projects": {
-    "D:\\project\\FTEAM\\Test.API\\TestApi\\services.cross\\services.cross.csproj": {
+    "D:\\project\\FTEAM\\Send.Api\\TestApi\\services.cross\\services.cross.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\project\\FTEAM\\Test.API\\TestApi\\services.cross\\services.cross.csproj",
+        "projectUniqueName": "D:\\project\\FTEAM\\Send.Api\\TestApi\\services.cross\\services.cross.csproj",
         "projectName": "services.cross",
-        "projectPath": "D:\\project\\FTEAM\\Test.API\\TestApi\\services.cross\\services.cross.csproj",
+        "projectPath": "D:\\project\\FTEAM\\Send.Api\\TestApi\\services.cross\\services.cross.csproj",
         "packagesPath": "C:\\Users\\Amir Hossin\\.nuget\\packages\\",
-        "outputPath": "D:\\project\\FTEAM\\Test.API\\TestApi\\services.cross\\obj\\",
+        "outputPath": "D:\\project\\FTEAM\\Send.Api\\TestApi\\services.cross\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
